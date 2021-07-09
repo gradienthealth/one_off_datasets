@@ -3,3 +3,4 @@
 - ProstateX: https://colab.research.google.com/drive/1t4tOjefhRqn9AapzF-Jr5qzMH2m0MwBU?usp=sharing
 - siim_covid_19: [here](https://colab.research.google.com/drive/1uKIIWXMN6_smJLlsTrK49XxQOezjmzUf?usp=sharing)
 - Standford_MURA: https://colab.research.google.com/drive/1dnFXAyDjeQghKpeEC03WejBKuXt-3xSl?authuser=1#scrollTo=uI3eu0gyrxt9
+- ObjectCXR: https://colab.research.google.com/drive/1MXtkSIYtZtO9sLucLmf87HHfY_ISg2ti?usp=sharing
